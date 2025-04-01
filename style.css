@@ -1,3 +1,11 @@
+   body{
+    margin: 0px;
+    padding: 0px;
+   }
+
+
+
+
 #banner {
         width: 100%;
 }
@@ -5,7 +13,7 @@
     text-transform: uppercase;
     text-align: center;
     color: rgb(80, 3, 3);
-    background-color: rgb(243, 223, 199);
+    background-color: rgb(226, 197, 162);
     padding: 1px;
 
  }
