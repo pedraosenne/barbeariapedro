@@ -39,4 +39,23 @@
 
 
    }
-    .
+    
+   ul{
+
+      display: inline-block;
+      vertical-align: top;
+      width: 20%;
+      margin-right: 15%;
+   }
+
+
+
+    .itens{ /* ITENS DA LISTA - CADA BOLHA*/
+        font-style: italic;
+       
+    }
+
+      .imagembeneficios{ /* IMAGEM DO HOMEN BARBUDO*/
+         width: 50%;
+
+      }
