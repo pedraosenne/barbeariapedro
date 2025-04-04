@@ -24,7 +24,8 @@
    }
 
    .principal {
-    color: azure;
+      
+       color: azure;
       background-color: rgb(136, 91, 91);
       padding: 30px;
       margin: 0px;
