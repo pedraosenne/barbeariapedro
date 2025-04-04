@@ -24,8 +24,8 @@
    }
 
    .principal {
-      
-       color: azure;
+
+      color: azure;
       background-color: rgb(136, 91, 91);
       padding: 30px;
       margin: 0px;
@@ -39,8 +39,8 @@
 
 
    }
-    
-   ul{
+
+   ul {
 
       display: inline-block;
       vertical-align: top;
@@ -50,12 +50,14 @@
 
 
 
-    .itens{ /* ITENS DA LISTA - CADA BOLHA*/
-        font-style: italic;
-       
-    }
+   .itens {
+      /* ITENS DA LISTA - CADA BOLHA*/
+      font-style: italic;
 
-      .imagembeneficios{ /* IMAGEM DO HOMEN BARBUDO*/
-         width: 50%;
+   }
 
-      }
+   .imagembeneficios {
+      /* IMAGEM DO HOMEN BARBUDO*/
+      width: 50%;
+
+   }
