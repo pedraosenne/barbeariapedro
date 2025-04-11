@@ -150,4 +150,17 @@
    .produtos-preco {
       font-size: 22px;
       font-weight: bold;
-   }
+   } 
+    footer{
+      text-align: center;
+      background: url("bg,jpg");
+      padding: 40px 0;
+
+      
+    }
+     
+    .copyright{
+color: black;
+font-size: 13px;
+margin: 20px 0 0;
+    }
