@@ -70,7 +70,7 @@
 
 
    header {
-      background: purple;
+      background: rgb(128, 0, 0);
       padding: 20px 0;
 
    }
@@ -101,7 +101,7 @@
    }
 
    nav a:hover {
-      color: #C78C19;
+      color: #610b0b;
       text-decoration: underline;
    }
 
@@ -125,7 +125,7 @@
 
 
    .produtos li:hover {
-      border-color: #C78C19;
+      border-color: #5e1515;
    }
 
    .produtos li:hover h2 {
@@ -133,7 +133,7 @@
    }
 
    .produtos li:active {
-      border-color: #088C19;
+      border-color: #5f0606;
    }
 
 
