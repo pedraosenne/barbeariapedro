@@ -9,6 +9,8 @@ form{
     text-align: center;
     background-color: rgb(88, 7, 7);
     width: 50%;
+    margin: auto;
+    display: block;
 }
 
 
