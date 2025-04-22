@@ -168,4 +168,8 @@ margin: 20px 0 0;
     button{
       margin: auto;
       display: block;
+      height: 35px;
+      width: 150px;
+      background-color: aquamarine;
+      color: #000000;
     }
